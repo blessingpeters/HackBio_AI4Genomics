@@ -1,1 +1,1 @@
-# HackBio_AI4genomics
+# HackBio AI For Genomics
