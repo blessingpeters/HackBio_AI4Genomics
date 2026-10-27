@@ -1,1 +1,6 @@
 notes/Breast_GSE45827.csv
+/data
+/data/*
+data/brats2020/BraTS2020_training_data/content/data
+data/brats2020/BraTS2020_training_data/content/data/name_mapping.csv
+projects/stageThree/valid_files.txt
